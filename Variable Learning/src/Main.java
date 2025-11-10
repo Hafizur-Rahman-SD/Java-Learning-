@@ -8,15 +8,12 @@
 
 
         String Name ="Hafizur Rahman";
-//        long ID = 2022200000178;
         int age =25;
         double weight =25.5;
         double CGPA = 3.25;
-        char Sex ='M';
         boolean married =true;
 
         System.out.println("Name:" +Name);
-//        System.out.println("ID" +ID);
         System.out.println("Age:"+age);
         System.out.println("weight:"+weight);
         System.out.println("CGPA:"+CGPA);
