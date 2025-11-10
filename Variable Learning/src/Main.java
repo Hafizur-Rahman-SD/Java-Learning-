@@ -1,5 +1,5 @@
 // Variable like my box where i can store my money/value
-//Deffine it
+//Define it
 //dataType VariableName = value;
 // for new line \n
 
