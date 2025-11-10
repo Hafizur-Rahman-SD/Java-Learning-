@@ -20,7 +20,6 @@
         System.out.println("Age:"+age);
         System.out.println("weight:"+weight);
         System.out.println("CGPA:"+CGPA);
-        System.out.println("Sex:" +Sex);
         System.out.println("married:"+married);
 
 
